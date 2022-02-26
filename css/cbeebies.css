@@ -1,0 +1,402 @@
+body
+{
+/*	background-repeat: no-repeat*/
+}
+
+p  {
+	font-size : small;
+	font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+
+.lightblue{
+	color: #0066cc;
+}
+
+
+.blacksize14
+{
+	color: #000000;
+	font-size: 14px;
+	font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;
+	letter-spacing : -1px;
+}
+
+.blacksize14norm
+{
+	color: #000000;
+	font-size: 14px;
+	font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+
+.blacksize14normB
+{
+	color: #000000;
+	font-size: 14px;
+	font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;
+	margin-top: 0;
+}
+
+
+.blacksize10
+{
+	color: #000000;
+	font-size: 10px;
+	font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+
+.purplesize12
+{
+	color: #660099;
+	font-size: 12px;
+	font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+
+.bluesize12
+{
+	color: #003366;
+	font-size: 12px;
+	font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+
+.orangesize12
+{
+	color: #ff6633;
+	font-size: 12px;
+	font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+
+.brown
+{
+	color: #990033;
+	font-size: x-small;
+	font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+
+.greensize12
+{
+	color: #009900;
+	font-size: 12px;
+	font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+
+.redsize12
+{
+	color: #cc3300;
+	font-size: 12px;
+	font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;
+
+}
+
+.redsize14bold
+{
+	color: #cc3300;
+	font-size: 14px;
+	font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+
+.blacksize14
+{
+	color: #000000;
+	font-size: 14px;
+	font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+
+.redsize14
+{
+	color: #cc3300;
+	font-size: 14px;
+	font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+
+
+.whitesize14
+{
+	color: #ffffff;
+	font-size: 14px;
+	font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+
+.whitesize14bold
+{
+	color: #ffffff;
+	font-size: 14px;
+	font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+
+.whitesize18bold
+{
+	color: #ffffff;
+	font-size: 20px;
+	font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+
+.whitesize22
+{
+	color: #ffffff;
+	font-size: 22px;
+	font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+}
+
+.size14330033
+{
+	color: #330033;
+	font-size:14px;
+	font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+
+.blacksize16
+{
+	color: #000000;
+	font-size: 16px;
+	font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+
+.bluesize16bold
+{
+	color: #003366;
+	font-size: 16px;
+	font-weight: bold;
+	font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+
+.bluesize16boldB
+{
+	color: #003366;
+	font-size: 16px;
+	font-weight: bold;
+	font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;
+	margin-bottom: 0;
+}
+
+.yellowsize16bold
+{
+	color: #ffff00;
+	font-size: 16px;
+	font-weight: bold;	
+	font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+
+.redsize16bold
+{
+	color: #cc3300;
+	font-size: 16px;
+	font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+
+.size163366ccbold
+{
+	color: #3366cc;
+	font-size: 16px;
+	font-weight: bold;
+	font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+
+.redsize18bold
+{
+	color: #cc3300;
+	font-size: 18px;
+	font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+
+
+a.main-link:active 	{ color: #0099ff; text-decoration: underline;}
+a.main-link:link 	{ color: #0099ff; text-decoration: underline;}
+a.main-link:visited { color: #006699; text-decoration: underline;}
+
+a.ecards-link:active 	{ color: #66cc00; text-decoration: underline;}
+a.ecards-link:link 		{ color: #66cc00; text-decoration: underline;}
+a.ecards-link:visited 	{ color: #339900; text-decoration: underline;}
+
+a.printables-link:active 	{ color: #9966ff; text-decoration: underline;}
+a.printables-link:link 		{ color: #9966ff; text-decoration: underline;}
+a.printables-link:visited 	{ color: #9933cc; text-decoration: underline;}
+
+a.birthdays-link:active 	{ color: #cc3366; text-decoration: underline;}
+a.birthdays-link:link 		{ color: #cc3366; text-decoration: underline;}
+a.birthdays-link:visited 	{ color: #990066; text-decoration: underline;}
+
+a.stories-link:active 	{ color: #6699cc; text-decoration: underline;}
+a.stories-link:link 	{ color: #6699cc; text-decoration: underline;}
+a.stories-link:visited 	{ color: #0066cc; text-decoration: underline;}
+
+a.bedtimestories-link:active 	{ color: #ccffff; text-decoration: underline;}
+a.bedtimestories-link:link 	{ color: #ccffff; text-decoration: underline;}
+a.bedtimestories-link:visited 	{ color: #0066cc; text-decoration: underline;}
+
+a.futurefun-link:active 	{ color: #ff6699; text-decoration: underline;}
+a.futurefun-link:link 	{ color: #ff6699; text-decoration: underline;}
+a.futurefun-link:visited 	{ color: #ff6699; text-decoration: underline;}
+
+a.brown:active 	{ color: #990033; text-decoration: underline;}
+a.brown:link 	{ color: #990033; text-decoration: underline;}
+a.brown:visited 	{ color: #990033; text-decoration: underline;}
+a.brown	{ color: #990033; text-decoration: underline;}
+
+a.prizes-link:active 	{ color: #cc6600; text-decoration: underline;}
+a.prizes-link:link 		{ color: #cc6600; text-decoration: underline;}
+a.prizes-link:visited 	{ color: #993300; text-decoration: underline;}
+
+
+
+a.orange:active 	{ color: #ff6633; font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;text-decoration: underline;}
+a.orange:link 	{ color: #ff6633; font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;text-decoration: underline;}
+a.orange:visited { color: #ff6633; font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;text-decoration: underline;}
+
+a.purple:active 	{ color: #660099; font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;text-decoration: underline;}
+a.purple:link 	{ color: #660099; font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;text-decoration: underline;}
+a.purple:visited { color: #660099; font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;text-decoration: underline;}
+
+a.blue:active 	{ color: #003366; font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;text-decoration: underline;}
+a.blue:link 	{ color: #003366; font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;text-decoration: underline;}
+a.blue:visited { color: #003366; font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;text-decoration: underline;}
+
+a.bluebold12:active 	{ color: #003366; font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;text-decoration: underline;font-weight:bold;font-size:12px;}
+a.bluebold12:link 	{ color: #003366; font-family : "Century Gothic", Verdana, Geneva,  Arial, Helvetica, sans-serif;text-decoration: underline;font-weight:bold;font-size:12px;}
+a.bluebold12:visited { color: #003366; font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;text-decoration: underline;font-weight:bold;font-size:12px;}
+
+a.green:active 	{ color: #66cc00; font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;text-decoration: underline;}
+a.green:link 	{ color: #66cc00; font-family : "Century Gothic",  Verdana, Geneva, Arial, Helvetica, sans-serif;text-decoration: underline;}
+a.green:visited { color: #66cc00; font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;text-decoration: underline;}
+
+a.whitebold:active 	{ color: #ffffff; font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;text-decoration: underline; font-weight: bold;}
+a.whitebold:link 	{ color: #ffffff; font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;text-decoration: underline; font-weight: bold;}
+a.whitebold:visited { color: #ffffff; font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;text-decoration: underline; font-weight: bold;}
+
+a.purple:active 	{ color: #9933ff; font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif; text-decoration: underline; font-weight: bold;}
+a.purple:link 	{ color: #9933ff; font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif; text-decoration: underline; font-weight: bold;}
+a.purple:visited { color: #9933ff; font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif; text-decoration: underline; font-weight: bold;}
+
+a.red:active 	{ color: #cc0033; font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif; text-decoration: underline; font-weight: bold;}
+a.red:link 	{ color: #cc0033; font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif; text-decoration: underline; font-weight: bold;}
+a.red:visited { color: #cc0033; font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif; text-decoration: underline; font-weight: bold;}
+
+a.whitebox:hover  {
+	color : #333366;
+	font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;
+	text-decoration : underline;
+	background-color : #ccccff; 
+}
+
+a.whitebox:active  {
+	color : #333366;
+	font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;
+	text-decoration : underline;
+	background-color : #ccccff;
+}
+
+a.whitebox:visited  {
+	color : #ffffff;
+	font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;
+	text-decoration : underline;
+}
+
+a.whitebox  {
+	color : #ffffff;
+	font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;
+	text-decoration : underline;
+}
+	
+a.nounderline
+{
+	text-decoration : none;
+}
+
+a.white
+{
+	color: white;
+
+}
+
+
+/* START link and text for Birthday index page */
+
+a.birthdayindex:link	{
+	color: #990066;
+	font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	font-size : smaller;
+	font-weight: bold;
+}
+
+a.birthdayindex:visited	{
+	color: #990066;
+	font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	font-size : smaller;
+	font-weight: bold;
+}
+
+a.birthdayindex:hover {
+	color: #990066;
+	font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;
+	text-decoration: underline;
+	font-size : smaller;
+	font-weight: bold;
+}
+
+
+.birthdayindextxt
+{
+	color: #990066;
+	font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size : smaller;
+}
+
+/* END link and text for Birthday index page */
+
+/* BEGIN: fimbles css */
+.topnav { font-size: 10px; font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif; color: #000000; }
+.topnav:link { font-size: 10px; font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif; color: #000000; }
+.topnav:visted { font-size: 10px; font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif; color: #000000; }
+.topnav:hover { font-size: 10px; font-family : "Century Gothic", Verdana, Geneva, Arial, Helvetica, sans-serif;  text-decoration: none; color: #ffffff; background: #000000; }
+
+.fimbody{
+	color: #ffffff;
+	font-size: 14px;
+	font-family : "Century Gothic",  Verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+
+/* END: fimbles css */
+
+.pcardbody{
+	font-family : Century Gothic, Geneva, Verdana, Arial, Helvetica, sans-serif;
+	font-size : larger;
+	font-weight : bold;
+	color : #30cf30;
+}
+
+.pcardbodyblue{
+	font-family : Century Gothic, Geneva, Verdana, Arial, Helvetica, sans-serif;
+	font-size : 18px;
+	font-weight : bold;
+	color : #33ccff;
+}
+/*
+     FILE ARCHIVED ON 05:59:40 Aug 21, 2006 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 07:03:59 Feb 26, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 305.406
+  exclusion.robots: 136.574
+  exclusion.robots.policy: 136.565
+  xauthn.identify: 92.325
+  xauthn.chkprivs: 44.002
+  RedisCDXSource: 29.091
+  esindex: 0.011
+  LoadShardBlock: 120.958 (3)
+  PetaboxLoader3.resolve: 71.997 (2)
+  PetaboxLoader3.datanode: 124.718 (4)
+  CDXLines.iter: 16.125 (3)
+  load_resource: 98.166
+*/
